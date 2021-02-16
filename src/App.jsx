@@ -1,12 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
-import Temperatura from "./components/Temperatura";
+import Formulario from "./components/Formulario";
 
 function App() {
   return (
     <div className="App mt-5">
       <h1>Título de nuestro primer proyecto</h1>
-        <Temperatura></Temperatura>
+      <Formulario></Formulario>
     </div>
   );
 }
